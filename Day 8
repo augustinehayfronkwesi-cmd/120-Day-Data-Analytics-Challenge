@@ -1,0 +1,20 @@
+Day 8 of 120 Days Data Analytics Challenge – Exploring Excel
+
+Today, I dove into Microsoft Excel, one of the most widely used spreadsheet applications. Excel is a powerful tool for storing, organizing, and visualizing data, and understanding its core functionalities is essential for any aspiring data analyst.
+
+What I Learned
+	1.	Formulas: The Engine of Excel
+Formulas are the backbone of Excel. They allow you to perform calculations automatically, from simple arithmetic like addition and subtraction to more advanced functions like SUM, AVERAGE, COUNT, and logical tests with IF. Using cell references instead of fixed numbers ensures that your calculations update automatically when your data changes.
+	2.	Tables & Formatting: Organizing Data
+Tables in Excel help structure your data efficiently. Features like structured references, automatic filtering, and banded rows make data easier to read and analyze. Formatting tools such as cell styles, conditional formatting, and proper number formats (currency, percentages, dates) help turn raw data into a clean, readable layout.
+	3.	Charts: Visualizing Data
+Charts are essential for turning numbers into insights.
+	•	Column/Bar Charts: Compare categories, like sales across regions.
+	•	Line Charts: Show trends over time, such as monthly revenue.
+	•	Pie Charts: Highlight proportions of a whole, like market share.
+	•	Scatter Plots: Show relationships between variables, useful in scientific or business analysis.
+	4.	Key Uses & Applications
+Excel isn’t just about numbers—it’s a versatile tool used for:
+	•	Data Management & Entry: Organize and maintain large datasets efficiently.
+	•	Calculations & Analysis: From budgeting to statistical analysis.
+	•	Business & Finance, Education & Research, Engineering & Science, Personal Productivity: Excel’s applications span industries, making it invaluable in real-world contexts.
