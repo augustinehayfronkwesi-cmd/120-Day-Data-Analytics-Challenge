@@ -1,0 +1,34 @@
+Pivot Tables & Trend Analysis
+
+🔎 Objectives
+	•	Analyze total sales by city
+	•	Compare operating profit by product category
+	•	Evaluate units sold by sales method
+	•	Identify monthly demand patterns
+
+📊 Analysis Performed
+
+1️⃣ Total Sales by City
+	•	Aggregated sum of total sales
+	•	Identified high-performing geographic markets
+
+2️⃣ Operating Profit by Product
+	•	Compared:
+	•	Men’s Apparel
+	•	Men’s Athletic Footwear
+	•	Men’s Street Footwear
+	•	Women’s Apparel
+	•	Women’s Athletic Footwear
+	•	Women’s Street Footwear
+	•	Measured total profitability per category
+
+3️⃣ Units Sold by Sales Method
+	•	In-store
+	•	Online
+	•	Outlet
+	•	Evaluated channel performance
+
+4️⃣ Monthly Product Demand (Jan–Dec)
+	•	Grouped invoice dates by month
+	•	Analyzed seasonality trends
+	•	Identified mid-year sales spikes
