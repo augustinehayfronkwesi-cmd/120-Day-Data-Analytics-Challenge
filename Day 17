@@ -1,0 +1,37 @@
+Hierarchical Analysis
+
+🔎 Objective
+
+Understand how data behaves across multiple levels using hierarchies.
+
+📊 Hierarchy Structure
+
+State → Product
+
+Metrics analyzed:
+	•	Sum of Total Sales
+	•	Sum of Operating Profit
+	•	Count of Units Sold
+
+💡 What This Achieved
+	•	Compared performance at state level
+	•	Drilled down into product performance within each state
+	•	Observed how profitability changes across hierarchy levels
+	•	Practiced roll-up and drill-down analysis
+
+⸻
+
+🛠 Tools Used
+	•	Microsoft Excel
+	•	Pivot Tables
+	•	Date Grouping
+	•	Hierarchical Row Structuring
+
+⸻
+
+📈 Skills Demonstrated
+	•	Data aggregation
+	•	Business performance analysis
+	•	Time series grouping
+	•	Multi-level data modeling
+	•	Analytical thinking
