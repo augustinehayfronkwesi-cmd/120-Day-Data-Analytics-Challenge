@@ -1,0 +1,8 @@
+Today I focused on understanding the fundamentals of DAX within Excel Power Pivot.
+
+I explored the difference between calculated columns (row context) and measures (filter context), and how DAX calculations operate inside a relational data model rather than referencing fixed cell ranges like traditional Excel formulas.
+
+Measures Created:
+	•	Total Profit = SUM([Profit])
+	•	Total Sales = SUM([Sale Price])
+	•	Profit Margin % = DIVIDE([Total Profit], [Total Sales])
