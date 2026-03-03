@@ -1,0 +1,15 @@
+Day 19 — Advanced Power Query
+
+Today I deepened my understanding of Power Query by practicing more advanced data transformation techniques.
+
+🔹 Skills Practiced
+	•	Advanced data transformations
+	•	Splitting and merging columns
+	•	Managing data types and handling errors
+	•	Optimizing applied steps for better performance
+
+🔹 What I Learned
+	•	Small transformation choices can significantly impact data quality
+	•	Proper data typing is critical for accurate analysis
+	•	Cleaning steps should be structured and efficient
+	•	Query optimization improves performance on larger datasets
