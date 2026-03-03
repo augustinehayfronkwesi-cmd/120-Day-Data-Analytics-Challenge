@@ -1,0 +1,21 @@
+Day 18 — Power Query
+
+Power Query is a data transformation tool that allows users to efficiently extract, transform, and load (ETL) data from multiple sources into a structured format for analysis and reporting.
+
+🔹 ETL Process
+
+Extract — Gather data from various sources
+
+Transform — Clean and reshape the data
+
+Load — Import data into the destination system
+
+🔹 Why Use Power Query
+
+Automation of ETL processes: Streamlines data extraction, transformation, and loading
+
+Reproducibility: Ensures consistent results by applying the same transformations across datasets
+
+Scalability: Can work with datasets exceeding Excel’s 1 million row limit
+
+✅ Key takeaway: Power Query simplifies and automates data preparation for analysis.
