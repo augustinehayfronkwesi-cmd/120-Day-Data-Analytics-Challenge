@@ -1,0 +1,19 @@
+Day 22 — Power Pivot
+
+Today I moved beyond Power Query into Power Pivot to practice data modeling and analytical calculations using a sample dataset.
+
+🔹 Dataset
+	•	Random sales dataset used for practice
+	•	Included customer, product, sales price, cost, and employee data
+
+🔹 What I Built
+	•	Created a calculated column for TOTAL PROFIT
+	•	Loaded data into the Power Pivot data model
+	•	Built a PivotTable to analyze profit by employee
+	•	Practiced foundational DAX thinking
+
+🔹 Key Learnings
+	•	Power Pivot enables true data modeling inside Excel
+	•	Calculated columns help derive business metrics
+	•	PivotTables connected to the data model are more powerful
+	•	Understanding DAX is essential for advanced analytics
