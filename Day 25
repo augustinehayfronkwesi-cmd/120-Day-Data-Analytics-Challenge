@@ -1,0 +1,17 @@
+Day 25 – HR Gender Diversity & Equality Project (Data Preparation)
+
+Today I started my first unguided analytics project focused on building an HR Gender Diversity & Equality Dashboard.
+
+The main focus of the day was data cleaning and transformation using Power Query in Excel to prepare the dataset for analysis.
+
+Data Preparation Steps
+	•	Standardized Total Compensation values to USD for consistent salary analysis.
+	•	Extracted Hire Month and Hire Year from the Hire Date column.
+	•	Extracted Leave Month and Leave Year from the Leave Date column.
+	•	Extracted Year of Birth from the Date of Birth column.
+
+Objective
+
+These transformations prepare the dataset for time-series analysis, workforce demographic analysis, and salary comparisons across gender and departments.
+
+This step highlights the importance of data preparation in the analytics workflow, ensuring the dataset is clean, structured, and ready for building dashboards and generating insights.
