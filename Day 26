@@ -1,0 +1,19 @@
+Day 26 – Defining the Business Questions
+
+After completing the data cleaning phase using Power Query, the next step in the analytics process was to understand the story behind the data and the business value it can provide.
+
+Instead of jumping straight into visualization, I asked three important analytical questions:
+
+Key Questions
+	1.	What story is hidden in this dataset?
+Understanding patterns in employee demographics, hiring trends, compensation, and gender distribution.
+	2.	What problems could a company solve using this data?
+	•	Identifying gender pay gaps
+	•	Understanding diversity across departments
+	•	Monitoring employee turnover
+	•	Evaluating hiring patterns over time
+	3.	What decisions could be made from this analysis?
+	•	Adjust compensation policies to ensure pay equity
+	•	Improve diversity hiring strategies
+	•	Identify departments with high employee turnover
+	•	Support HR planning and workforce strategy
