@@ -1,0 +1,31 @@
+Project: Salary & Skills Analysis Dashboard (Excel)
+
+Overview
+
+This project analyzes the relationship between data job roles, required skills, and salary levels using Excel Pivot Tables and interactive dashboard elements.
+
+The goal was to explore how skills demand influences salary across different data-related job titles.
+
+Tools Used
+	•	Microsoft Excel
+	•	Pivot Tables
+	•	Pivot Charts
+	•	Slicers (Interactive Filters)
+	•	Dashboard Design
+
+Key Dashboard Features
+	•	Interactive filtering by Job Title, Country, and Job Skills
+	•	Scatter plot showing the relationship between Skills Required vs Median Salary
+	•	Bar chart highlighting Top Skills among Data Professionals
+	•	Salary comparison for the Top 10 Highest Paying Skills
+
+Key Insights
+	•	Senior data roles such as Senior Data Scientist and Senior Data Engineer command the highest salaries.
+	•	Higher-paying roles typically require more technical skill sets.
+	•	Skills like Python, SQL, and Tableau appear frequently in high-paying data jobs.
+
+Skills Practiced
+	•	Data aggregation using Pivot Tables
+	•	Data storytelling with dashboards
+	•	Interactive filtering using slicers
+	•	Salary and skill trend analysis
