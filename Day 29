@@ -1,0 +1,21 @@
+Day 29 – Dashboard Planning & Visualization Design
+
+Today I focused on planning the visual structure of my HR Gender Diversity & Equality Dashboard. Before building the dashboard in Excel/Power BI, I sketched my visualization ideas on paper to determine the most effective way to present insights.
+
+Planned Visualizations
+	•	Salary Distribution
+	•	Total Compensation by Department
+	•	Gender Diversity Overview
+	•	Gender vs Average Salary
+	•	Employee Satisfaction vs Salary
+	•	Hiring Trends Over Time
+	•	Employee Leave Analysis
+
+Planned Slicers
+
+To allow interactive filtering within the dashboard:
+	•	Department
+	•	Branch
+	•	Gender
+	•	Job Title
+	•	Employee Satisfaction
