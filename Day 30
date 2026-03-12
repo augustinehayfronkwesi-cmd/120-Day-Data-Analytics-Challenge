@@ -1,0 +1,42 @@
+You can post this as your GitHub project README for Day 30 👇🏾
+
+⸻
+
+Day 30 – DAX Measures for HR Analytics Dashboard
+
+Project Overview
+
+On Day 30 of my Unguided Data Analytics Projects, I focused on building DAX measures in Power Pivot to support an HR analytics dashboard.
+
+Instead of jumping straight into visuals, I worked on defining the core business metrics that would drive the insights behind the dashboard.
+
+This step is important because strong dashboards start with well-defined measures and calculations.
+
+⸻
+
+Dataset
+
+The dataset contains HR employee information including:
+	•	Employee ID
+	•	Age
+	•	Gender
+	•	Marital Status
+	•	Branch
+	•	Hire Date
+	•	Leave Date
+	•	Department
+	•	Salary
+	•	Total Compensation
+
+The dataset is used to analyze workforce structure, attrition, and compensation metrics.
+Total Employees = COUNTROWS(Employees)
+Active Employees =
+CALCULATE(
+    COUNTROWS(Employees),
+    Employees[Attrition] = "No"
+)
+Attrition =
+CALCULATE(
+    COUNTROWS(Employees),
+    Employees[Attrition] = "Yes"
+)
