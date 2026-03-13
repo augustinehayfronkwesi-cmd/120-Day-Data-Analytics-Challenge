@@ -1,0 +1,27 @@
+Today’s focus was on planning the dashboard structure before building the visualizations. Instead of immediately creating charts in Excel, I mapped out the visual components on paper to determine the most effective way to communicate insights from the HR dataset.
+
+Planned Visualizations
+	1.	Annual Salary by Department
+	•	Chart Type: Bar Chart
+	•	Axis: Department
+	•	Values: Total Annual Salary
+	2.	Compensation by Department
+	•	Chart Type: Column Chart
+	•	Axis: Department
+	•	Values: Total Compensation
+	3.	Average Salary by Gender
+	•	Chart Type: Bar Chart
+	•	Axis: Gender
+	•	Values: Average Salary
+	4.	Hiring Trend Over Time
+	•	Chart Type: Line Chart
+	•	Axis: Hire Year
+	•	Values: Total Employees Hired
+	5.	Employees Leaving by Year
+	•	Chart Type: Line Chart
+	•	Axis: Leave Year
+	•	Values: Number of Employees Who Left
+
+Key Takeaway
+
+Planning the dashboard layout beforehand helps clarify which insights need to be communicated and which visualizations best support those insights. This approach ensures the dashboard is designed with a clear analytical objective rather than simply displaying data.
