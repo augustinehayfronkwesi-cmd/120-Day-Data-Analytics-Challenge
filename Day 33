@@ -1,0 +1,23 @@
+Today I focused on transforming my pivot table analysis into PivotCharts to create more meaningful visual insights for my HR Gender Diversity & Equality dashboard.
+
+After preparing the data and calculating key HR metrics, I built visualizations that help highlight salary distribution and compensation patterns across different departments.
+
+Visualizations Created
+	•	Annual Salary by Department
+Chart Type: Bar Chart
+Purpose: To analyze how salary expenses are distributed across departments.
+	•	Compensation by Department
+Chart Type: Bar Chart
+Purpose: To compare the total compensation allocated to each department.
+
+Dashboard Features
+	•	Implemented interactive slicers for:
+	•	Gender
+	•	Branch
+	•	Department
+
+These slicers allow users to dynamically filter the dashboard and explore the workforce data from different perspectives.
+
+Key Takeaway
+
+Using PivotCharts helped transform raw HR data into clear visual insights, making it easier to analyze departmental salary structures and compensation trends.
