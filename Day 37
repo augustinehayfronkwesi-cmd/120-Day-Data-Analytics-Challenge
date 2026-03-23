@@ -1,0 +1,18 @@
+Today was all about getting hands-on with data cleaning in Power Query Editor. I learned how raw data can be messy, inconsistent, and unreliable—and how important it is to fix that before any analysis.
+
+🔧 Key Concepts Covered
+	•	Removing duplicates and unnecessary columns
+	•	Handling missing/null values
+	•	Changing data types (text, number, date, etc.)
+	•	Splitting and merging columns
+	•	Renaming columns for clarity
+	•	Filtering and sorting data
+	•	Using built-in transformations to standardize datasets
+
+💡 What I Learned
+Data cleaning is a crucial step in the data analysis process. Clean data ensures:
+	•	More accurate insights
+	•	Better visualizations
+	•	Reliable decision-making
+
+Power Query makes this process efficient and repeatable through its step-by-step transformation system.
