@@ -1,0 +1,8 @@
+Continued working on data cleaning to improve the quality and consistency of the HR dataset.
+
+Tasks Completed
+	•	Standardized date fields (Date of Birth, Hire Date, Leave Date)
+	•	Verified and corrected data types
+	•	Checked for inconsistencies in categorical fields (Gender, Marital Status, Branch)
+	•	Reviewed employee records for duplicates and errors
+	•	Validated calculated fields such as Employee Age
