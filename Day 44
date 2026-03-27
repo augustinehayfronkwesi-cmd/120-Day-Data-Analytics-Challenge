@@ -1,0 +1,27 @@
+Today, I transitioned from learning DAX theory to practical application. I developed several Explicit Measures to track critical HR metrics for the Gender Diversity and Equality dataset.
+📊 KPI Calculations (DAX)
+Below are the measures I created to drive the project's high-level insights:
+
+1. Total Annual Salary
+Calculates the sum of all annual salaries across the organization to understand the total wage bill.
+
+Total Annual Salary = SUM('HR - Gender diversity and Equality'[Annual salary ($)])
+
+2. Total Branches
+Identifies the number of unique locations or branches where the company operates.
+
+Total Branches = DISTINCTCOUNT('HR - Gender diversity and Equality'[Branch])
+
+3. Total Compensation
+Aggregates all compensation types (including bonuses or benefits) to view the full financial investment in personnel.
+
+Total Compensation = SUM('HR - Gender diversity and Equality'[Total compensation])
+
+4. Total Employees
+Provides an accurate headcount by counting every unique Employee ID in the system.
+
+Total Employees = COUNT('HR - Gender diversity and Equality'[Employee ID])
+
+Explicit vs. Implicit: I opted for Explicit Measures over Power BI’s default "Auto-Sum" features. This ensures that these calculations remain accurate even when complex filters (like Gender or Department) are applied to the dashboard.
+• Data Integrity: Used DISTINCTCOUNT for branches to ensure that if a branch appears multiple times in the records, it is only counted once for reporting.
+• Scalability: These measures serve as the "building blocks" for more advanced calculations, such as Year-over-Year (YoY) growth or Gender Pay Gap percentages.
