@@ -1,0 +1,21 @@
+📊 What is Data Visualization?
+Data visualization is the process of turning granular, complex data into easily understood, visually compelling, and useful business information. > "Being able to see the story within the numbers makes data visualization a powerful tool for sharing insights."
+🏗️ Core Components in Power BI
+Visualization in Power BI is divided into two primary categories:
+1. Visuals
+The charts and graphics that allow a Data Analyst to share insights effectively.
+• Goal: Learn how to choose the right visual from the extensive library Power BI makes available.
+• Formatting: Master the ability to format visuals to highlight the most important data points.
+2. Elements
+Elements are supplemental items used to enhance the professional look and context of your reports:
+• Textboxes: For titles, descriptions, and annotations.
+• Shapes: To group related visuals or create custom backgrounds.
+• Images: For branding (logos) or adding visual context.
+🎨 Design Principles for Effective Visualization
+To ensure your reports are professional and readable, follow these industry-standard design principles:
+• Simplicity: Keep it simple and easy to understand; avoid "chart junk."
+• Message-Driven: Choose the right chart or graph specifically to convey your unique message.
+• Color & Contrast: Use color effectively to highlight data, not just for decoration.
+• Clarity: Use Data Labels over gridlines for quicker reading.
+• Clean Backgrounds: A white background is often the safest and most professional choice.
+• Context: Always use appropriate, descriptive titles for every chart.
