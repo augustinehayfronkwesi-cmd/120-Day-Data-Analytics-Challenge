@@ -1,0 +1,14 @@
+Day 43: Mastering DAX (Data Analysis Expressions)
+This repository documents my progress in learning DAX, the formula language used in Power BI to create custom calculations and perform advanced data analysis.
+🧠 What is DAX?
+DAX (Data Analysis Expressions) is a formula language that provides the ability to create new information from data already in your model. It includes:
+1. Functions: Predefined formulas (e.g., SUM, AVERAGE).
+2. Operators: Symbols used for calculations (e.g., +, -, *, /).
+3. Values: References to columns or tables to perform advanced queries.
+🛠️ The Three Pillars of DAX
+In Power BI, DAX is used to create three specific types of objects:
+• Calculated Columns: Added to a specific table; the values are calculated row-by-row and stored in the model.
+• Calculated Tables: Entirely new tables created using a DAX expression (e.g., a Date table).
+• Measures: Complex calculations that are not stored in a table but are calculated on the fly when used in a visual.
+⚖️ Implicit vs. Explicit Measures
+Understanding the difference between these two is critical for professional Power BI development.
