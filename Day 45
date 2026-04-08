@@ -1,0 +1,27 @@
+Day 45/120 – Mastering DAX Time Intelligence (Cheat Sheet Edition)
+
+Today I focused on one of the most powerful parts of data analysis in Power BI — Time Intelligence in DAX.
+
+Instead of just calculating totals, I learned how to make my data tell a story over time. Here’s what I covered:
+
+📌 First & Last Order Dates
+	•	Used MIN and MAX with CALCULATE to identify the start and end of sales activity
+	•	Helps define the data range and business timeline
+
+📌 Previous Month Sales
+	•	Leveraged PREVIOUSMONTH() to compare current performance with the last month
+	•	Key for spotting short-term trends
+
+📌 Month-over-Month Growth (MoM)
+	•	Combined DIVIDE and SAMEPERIODLASTYEAR() logic
+	•	Learned how to calculate percentage growth and track performance changes
+
+📌 Parallel Period Comparison
+	•	Used PARALLELPERIOD() to shift time context (e.g., same period last year)
+	•	Super useful for year-over-year comparisons
+
+📌 Year-To-Date (YTD)
+	•	TOTALYTD() helped me track cumulative performance from the start of the year
+
+📌 Month-To-Date (MTD)
+	•	TOTALMTD() gave insight into current month progress
